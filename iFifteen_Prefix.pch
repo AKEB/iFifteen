@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'iFifteen' target in the 'iFifteen' project
+//
+#import <Availability.h>
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+	#import <AVFoundation/AVFoundation.h>
+	#import <CoreData/CoreData.h>
+#endif
+
+#if __IPHONE_OS_VERSION_MAX_ALLOWED >= 30200
+	#define IS_IPAD	(UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#else
+	#define IS_IPAD	NO
+#endif

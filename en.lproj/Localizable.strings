@@ -1,0 +1,32 @@
+"NewGameTitle"   = "Attention";
+"NewGameMessage" = "Are you sure you want to start a new game? Current game will be lost!";
+
+"ContinueGameTitle"   = "Attention";
+"ContinueGameMessage" = "You have not finished the game. Do you wish to continue it?";
+
+
+"MenuTitle"      = "Attention";
+"MenuMessage"    = "Are you sure you want to leave the game? Current game will be lost!";
+
+"Cansel"         = "Cancel";
+"OK"             = "OK";
+
+"NO"             = "NO";
+"YES"            = "YES";
+
+"FinishTitle"    = "Congratulations!";
+"FinishButton"   = "Ok";
+"FinishMessage"  = "You have completed the game for %1$d:%2$.2d committing %3$d %4$@\r\r";
+"step1"          = "step";
+"step234"        = "steps";
+"step5"          = "steps";
+
+"Copyright"      = "© AKEB & Lord Alex 2010 \r All rights reserved";
+
+"SoundVolume"    = "Sound Volume";
+"Sound"          = "Sound";
+"SoundOn"        = "Sound On";
+"GameSettings"   = "Game Settings";
+"Version"        = "Version";
+"BlockKind"      = "Block Kind";
+"Steps"          = "Steps";
