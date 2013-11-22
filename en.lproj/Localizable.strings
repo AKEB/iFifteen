@@ -20,13 +20,13 @@
 "step1"          = "step";
 "step234"        = "steps";
 "step5"          = "steps";
-
-"Copyright"      = "© AKEB & Lord Alex 2010 \r All rights reserved";
-
-"SoundVolume"    = "Sound Volume";
-"Sound"          = "Sound";
-"SoundOn"        = "Sound On";
-"GameSettings"   = "Game Settings";
-"Version"        = "Version";
-"BlockKind"      = "Block Kind";
 "Steps"          = "Steps";
+
+
+//"Copyright"      = "© AKEB & Lord Alex 2010 \r All rights reserved";
+//"SoundVolume"    = "Sound Volume";
+//"Sound"          = "Sound";
+//"SoundOn"        = "Sound On";
+//"GameSettings"   = "Game Settings";
+//"Version"        = "Version";
+//"BlockKind"      = "Block Kind";

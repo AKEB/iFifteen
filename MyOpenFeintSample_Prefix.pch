@@ -1,0 +1,8 @@
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <AVFoundation/AVFoundation.h> 
+#endif
+
+#import "Settings.h"
+#import "OpenFeintPrefix.pch"

@@ -1,0 +1,146 @@
+<resources>
+<game_profile_page_info>
+  <has_chat_rooms>true</has_chat_rooms>
+  <has_challenges>false</has_challenges>
+  <short_name>The15puzzle</short_name>
+  <suggestions_topic_id>199264</suggestions_topic_id>
+  <has_achievements>false</has_achievements>
+  <has_leaderboards>true</has_leaderboards>
+  <has_featured_application>false</has_featured_application>
+  <has_ipurchase>false</has_ipurchase>
+  <name>The 15 puzzle</name>
+  <id>81134</id>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+</game_profile_page_info>
+<offline>
+<leaderboards>
+<leaderboard>
+<id>470544</id>
+<name>Total Games Finish (letters)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>true</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-09-04 01:53:52 UTC</created_at>
+<updated_at>2010-09-04 12:37:01 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>5</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+</leaderboard>
+<leaderboard>
+<id>470534</id>
+<name>Total Games Finish (number)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>true</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-09-04 01:52:43 UTC</created_at>
+<updated_at>2010-09-04 13:28:11 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>2</position>
+<reached_at>2010-09-06 05:08:16 UTC</reached_at>
+<display_text>5</display_text>
+<custom_data></custom_data>
+<score>5</score>
+</leaderboard>
+<leaderboard>
+<id>470554</id>
+<name>Total Games Finish</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>true</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-09-04 01:54:24 UTC</created_at>
+<updated_at>2010-09-04 13:28:11 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>6</position>
+<reached_at>2010-09-06 05:08:16 UTC</reached_at>
+<display_text>5</display_text>
+<custom_data></custom_data>
+<score>5</score>
+</leaderboard>
+<leaderboard>
+<id>469314</id>
+<name>Top Time (number)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>false</descending_sort_order>
+<created_at>2010-09-02 15:39:43 UTC</created_at>
+<updated_at>2010-09-04 20:01:09 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>1</position>
+<reached_at>2010-09-04 21:59:13 UTC</reached_at>
+<display_text>0:48</display_text>
+<custom_data></custom_data>
+<score>48</score>
+</leaderboard>
+<leaderboard>
+<id>469804</id>
+<name>Top Steps (letters)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>false</descending_sort_order>
+<created_at>2010-09-03 06:50:29 UTC</created_at>
+<updated_at>2010-09-04 20:01:37 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>3</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+</leaderboard>
+<leaderboard>
+<id>469864</id>
+<name>Top Time (letters)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>false</descending_sort_order>
+<created_at>2010-09-03 07:37:11 UTC</created_at>
+<updated_at>2010-09-04 20:02:16 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>4</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+</leaderboard>
+<leaderboard>
+<id>469304</id>
+<name>Top Steps (number)</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>81134</client_application_id>
+<descending_sort_order>false</descending_sort_order>
+<created_at>2010-09-02 15:38:28 UTC</created_at>
+<updated_at>2010-09-04 20:05:53 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at>2010-09-04 21:59:13 UTC</reached_at>
+<display_text>82</display_text>
+<custom_data></custom_data>
+<score>82</score>
+</leaderboard>
+</leaderboards>
+</offline>
+
+</resources>

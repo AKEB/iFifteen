@@ -21,12 +21,20 @@
 "step234"        = "шага";
 "step5"          = "шагов";
 
-"Copyright"      = "© AKEB & Lord Alex 2010 \r Все права защищены";
-
-"SoundVolume"    = "Уровень звука";
-"Sound"          = "Звук";
-"SoundOn"        = "Включить звук";
-"GameSettings"   = "Игровые настройки";
-"Version"        = "Версия";
-"BlockKind"      = "Вид кубиков";
 "Steps"          = "Шаги";
+
+
+
+//"Copyright"      = "© AKEB & Lord Alex 2010 \r Все права защищены";
+//"SoundVolume"    = "Уровень звука";
+//"Sound"          = "Звук";
+//"SoundOn"        = "Включить звук";
+//"GameSettings"   = "Игровые настройки";
+//"Version"        = "Версия";
+//"BlockKind"      = "Вид кубиков";
+
+
+
+
+
+
